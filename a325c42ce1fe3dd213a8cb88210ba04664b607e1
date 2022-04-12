@@ -1,0 +1,1 @@
+{"jobID":"38e8b6fb-dd3d-3f60-45c5-b9c192822289","spec":{"type":"policy","cause":{"Message":"","User":"Ph Calas \u003cphcalas@free.fr\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"glob:semser:~1.19.x"},"remove":{}}}},"result":null}
