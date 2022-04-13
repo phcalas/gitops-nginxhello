@@ -4,11 +4,11 @@
 
 replicaCount: 5
 
-color: black
+color: red
 
 image:
   repository: phcalas/nginxhello
-  tag: 1.19.0
+  tag: 1.19.2
   pullPolicy: IfNotPresent
 
 serviceAccount:
